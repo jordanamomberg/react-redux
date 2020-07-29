@@ -9,7 +9,7 @@ function Numeros(props) {
   const { num1, num2 } = props;
 
   return (
-    <Card title="Números" red>
+    <Card title="Calculadora" red>
       <div className="numeros">
         <span>
           <strong>Número 1:</strong>
